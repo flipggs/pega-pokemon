@@ -1,0 +1,1 @@
+# Exemplo de API para buscar Pokemon
